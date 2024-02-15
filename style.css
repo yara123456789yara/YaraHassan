@@ -1,0 +1,57 @@
+
+
+body{
+    background-color: #020202;
+}
+.home{
+    width: 1000px;
+    height: 400px;
+    background-color: rgb(40, 40, 58);
+    color: white;
+    margin: 100px ;
+    display: flex;
+    justify-content: flex-end;
+    border-radius: 10px;
+
+
+
+}
+.about{
+    width: 40%;
+    padding: 30px;
+    margin: 30px;
+}
+span{
+    color: blueviolet;
+}
+/*.us{
+    width: 40%;
+    margin: 20px;
+     
+}*/
+ul{
+    list-style: none;
+    padding: 0;
+    margin:5px ;
+    display:flex;
+    justify-content: space-between;
+    
+}
+.p1{
+
+font-weight: bold;
+}
+.photo{
+    width: 60%;
+display: flex;
+justify-content: space-between;
+
+}
+img{
+    
+    width: 100%;
+   
+    display: flex;
+    justify-content: flex-end;
+
+}
